@@ -1,6 +1,5 @@
 import React from "react";
 import Particles from "react-tsparticles";
-//import "./styles.css";
 
 export default function App() {
   return (
